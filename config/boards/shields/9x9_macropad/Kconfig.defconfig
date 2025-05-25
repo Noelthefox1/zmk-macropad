@@ -1,6 +1,6 @@
-if Shield_9x9_Macropad
+if Shield_3x3_macropad
 
 config ZMK_KEYBOARD_NAME
-    default "9x9_MP"
+    default "3x3_MP"
 
 endif

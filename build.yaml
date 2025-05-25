@@ -20,4 +20,4 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: 9x9_Macropad
+    shield: 3x3_macropad

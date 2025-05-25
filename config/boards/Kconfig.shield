@@ -1,2 +1,2 @@
-config Shield_9x9_Macropad
-    def_bool $(shields_list_contains, 9x9_Macropad)
+config Shield_3x3_macropad
+    def_bool $(shields_list_contains, 3x3_macropad)
