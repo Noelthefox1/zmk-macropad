@@ -1,0 +1,6 @@
+if Shield_9x9_Macropad
+
+config ZMK_KEYBOARD_NAME
+    default "9x9_MP"
+
+endif
