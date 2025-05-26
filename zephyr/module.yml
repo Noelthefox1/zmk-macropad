@@ -1,3 +1,4 @@
-build: macropad
-  settings: 
-    board_root: .
+name: zmk-config
+build:
+  settings:
+    shield_root: shields
