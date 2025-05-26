@@ -1,4 +1,4 @@
-if Shield_3x3_macropad
+if SHIELD_MACROPAD
 
 config ZMK_KEYBOARD_NAME
     default "3x3_MP"
